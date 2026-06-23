@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Demand,StockLevel,ReorderPoint,ReorderQty,Status,Risk
+PROD-2000,Optima Serum (Standard),Serums,152,283,62,60,Overstocked,Low
+PROD-2001,Luxe Hydrator (Standard),Moisturizers,485,397,107,194,Overstocked,Low
+PROD-2002,Aqua Cleanser (Standard),Cleansers,320,98,80,128,Good,Medium
+PROD-2003,Derma Toner (Standard),Toners,156,325,60,62,Overstocked,Low
+PROD-2004,Glow Oil (Standard),Treatments,121,23,52,48,Reorder Alert,High
+PROD-2005,Revive Cream (Standard),Serums,750,251,152,300,Overstocked,Low
+PROD-2006,Brightening Gel (Standard),Moisturizers,70,274,53,28,Overstocked,Low
+PROD-2007,Mineral SPF (Standard),Cleansers,664,355,144,265,Overstocked,Low
+PROD-2008,Charcoal Mask (Standard),Toners,171,62,69,68,Reorder Alert,High
+PROD-2009,Squalane Drop (Standard),Treatments,516,395,124,206,Overstocked,Low
+PROD-2010,Retinol Boost (Standard),Serums,264,349,86,105,Overstocked,Low
+PROD-2011,Peptide Filler (Standard),Moisturizers,380,101,104,152,Reorder Alert,High
+PROD-2012,C-Boost Serum (Standard),Cleansers,508,376,108,203,Overstocked,Low
+PROD-2013,Clay Detox (Standard),Toners,137,453,48,54,Overstocked,Low
+PROD-2014,Rose Mist (Standard),Treatments,422,464,111,168,Overstocked,Low
+PROD-2015,Exfoliating Scrub (Standard),Serums,149,437,56,59,Overstocked,Low
+PROD-2016,Night Repair (Standard),Moisturizers,713,273,138,285,Overstocked,Low
+PROD-2017,Eye Lift Cream (Standard),Cleansers,180,440,47,72,Overstocked,Low
+PROD-2018,Lip Plumper (Standard),Toners,711,44,150,284,Out of Stock,Critical
+PROD-2019,Hyaluronic Acid (Standard),Treatments,358,215,79,143,Overstocked,Low
+PROD-2020,Niacinamide 10% (Standard),Serums,393,90,86,157,Good,Medium
+PROD-2021,Salicylic Gel (Standard),Moisturizers,541,429,124,216,Overstocked,Low
+PROD-2022,Zinc Balm (Standard),Cleansers,463,59,89,185,Reorder Alert,High
+PROD-2023,Centella Toner (Standard),Toners,435,369,96,174,Overstocked,Low
+PROD-2024,Ceramide Cream (Standard),Treatments,241,397,63,96,Overstocked,Low
+PROD-2025,Optima Serum (Pro),Serums,326,11,91,130,Out of Stock,Critical
+PROD-2026,Luxe Hydrator (Pro),Moisturizers,210,399,61,84,Overstocked,Low
+PROD-2027,Aqua Cleanser (Pro),Cleansers,509,63,114,203,Reorder Alert,High
+PROD-2028,Derma Toner (Pro),Toners,363,115,90,145,Good,Medium
+PROD-2029,Glow Oil (Pro),Treatments,71,269,37,28,Overstocked,Low
+PROD-2030,Revive Cream (Pro),Serums,302,319,67,120,Overstocked,Low
+PROD-2031,Brightening Gel (Pro),Moisturizers,797,486,141,318,Overstocked,Low
+PROD-2032,Mineral SPF (Pro),Cleansers,610,200,111,244,Overstocked,Low
+PROD-2033,Charcoal Mask (Pro),Toners,524,411,124,209,Overstocked,Low
+PROD-2034,Squalane Drop (Pro),Treatments,108,227,40,43,Overstocked,Low
+PROD-2035,Retinol Boost (Pro),Serums,560,53,113,224,Reorder Alert,High
+PROD-2036,Peptide Filler (Pro),Moisturizers,731,171,135,292,Good,Medium
+PROD-2037,C-Boost Serum (Pro),Cleansers,525,211,123,210,Overstocked,Low
+PROD-2038,Clay Detox (Pro),Toners,749,455,140,299,Overstocked,Low
+PROD-2039,Rose Mist (Pro),Treatments,239,493,82,95,Overstocked,Low
+PROD-2040,Exfoliating Scrub (Pro),Serums,736,279,136,294,Overstocked,Low
+PROD-2041,Night Repair (Pro),Moisturizers,612,360,119,244,Overstocked,Low
+PROD-2042,Eye Lift Cream (Pro),Cleansers,616,313,119,246,Overstocked,Low
+PROD-2043,Lip Plumper (Pro),Toners,293,280,74,117,Overstocked,Low
+PROD-2044,Hyaluronic Acid (Pro),Treatments,554,465,104,221,Overstocked,Low
+PROD-2045,Niacinamide 10% (Pro),Serums,180,471,47,72,Overstocked,Low
+PROD-2046,Salicylic Gel (Pro),Moisturizers,534,224,115,213,Overstocked,Low
+PROD-2047,Zinc Balm (Pro),Cleansers,696,261,146,278,Overstocked,Low
+PROD-2048,Centella Toner (Pro),Toners,70,199,52,28,Overstocked,Low
+PROD-2049,Ceramide Cream (Pro),Treatments,216,305,81,86,Overstocked,Low

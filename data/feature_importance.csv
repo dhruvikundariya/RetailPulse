@@ -1,0 +1,9 @@
+Feature,Importance
+Monetary Value,0.324
+Purchase Frequency,0.245
+Recency (Days),0.187
+Last Order Value,0.092
+Discount Usage %,0.063
+Support Tickets,0.045
+Account Age (Months),0.029
+Web Session Time,0.015
