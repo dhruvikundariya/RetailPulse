@@ -178,3 +178,13 @@ docker build -t retailpulse .
 Run Docker Container:
 
 docker run -p 8501:8501 retailpulse
+
+## Live Demo
+
+Streamlit Cloud Deployment:
+
+https://retailpulse-dhruvi.streamlit.app
+
+## Screenshots
+
+Dashboard screenshots are available below.
