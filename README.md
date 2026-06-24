@@ -188,3 +188,5 @@ https://retailpulse-dhruvi.streamlit.app
 ## Screenshots
 
 Dashboard screenshots are available below.
+[Screenshots.zip](https://github.com/user-attachments/files/29278540/Screenshots.zip)
+
